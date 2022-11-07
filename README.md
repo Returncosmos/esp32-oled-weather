@@ -1,2 +1,2 @@
 # esp32-oled-weather
-#编译环境IDF4.4  搭建方法参考https://docs.espressif.com/projects/esp-idf/zh_CN/v4.4/esp32/get-started/index.html
+#缂栬瘧鐜IDF4.4 鍙傝�冮摼鎺ttps://docs.espressif.com/projects/esp-idf/zh_CN/v4.4/esp32/get-started/index.html
